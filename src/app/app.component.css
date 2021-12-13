@@ -11,7 +11,13 @@
     justify-content: center;
     background: #75c0b6;
     color: white;
-    font-family: 'PT Serif', serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 28px;
+  }
+
+  .cocktails {
+    font-family: 'Sacramento', cursive;
+    font-size: 1.5em;
   }
   
   main {
