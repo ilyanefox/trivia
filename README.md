@@ -1,3 +1,4 @@
+<img width="1280" alt="codingandcocktails" src="https://user-images.githubusercontent.com/85144115/145906483-9bb6d9a4-969c-43fc-bd21-3db70b6cae57.png">
 # Trivia
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
