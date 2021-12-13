@@ -1,0 +1,7 @@
+<h3>{{question.text}}</h3>
+
+<ul>
+   <li *ngFor="let answer of question.answers; let i=index">
+      <button class="answer" (click)="onAnswerSelected(i)">{{answer.text}}</button>
+   </li>
+</ul>

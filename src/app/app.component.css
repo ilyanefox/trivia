@@ -9,8 +9,9 @@
   footer {
     display: flex;
     justify-content: center;
-    background: #666b8f;
+    background: #75c0b6;
     color: white;
+    font-family: 'PT Serif', serif;
   }
   
   main {
