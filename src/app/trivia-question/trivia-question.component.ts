@@ -10,6 +10,7 @@ export class TriviaQuestionComponent implements OnInit {
 
   @Input() public question: Question;
   @Output() public answeredEvent: EventEmitter<boolean> = new EventEmitter<boolean>();
+  @Input() public shouldDisplay: boolean;
 
   constructor() { }
 
